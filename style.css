@@ -182,6 +182,18 @@ h3{
     text-align: justify;  
 }
 
+.link{margin-left: 5px;
+    background-color: rgb(224, 33, 33);
+    color: rgb(219, 211, 199);
+    border: none;
+    text-align: center;
+    font-family: Lucida Sans;
+    border-radius: 20px;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: small;
+
+}
 @media only screen and (max-width: 600px) {
     body {
       /* background-color: lightblue; */
